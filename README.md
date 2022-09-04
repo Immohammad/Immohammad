@@ -1,5 +1,5 @@
 ## Introduction
-I am studying bachelor of computer engineering at the Shahid Beheshti university.  
+I am a computer engineering graduate of Shahid Beheshti University
 
 ## Languages & Technologies
 [![](https://img.shields.io/badge/-Html-black?style=for-the-badge)](https://html.com/)
