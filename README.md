@@ -1,6 +1,6 @@
 ## Introduction
 I am a computer engineering graduate of Shahid Beheshti University.<br/>
-Front-end development?? Yeah. This is what made the CE beautiful
+Front-end development?? Yeah. This is what made the CE beautiful for me
 
 ## Languages & Technologies
 <div>
