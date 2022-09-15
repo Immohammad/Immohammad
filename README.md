@@ -15,6 +15,7 @@ Front-end development?? Yeah. This is what made the CE beautiful
   	<img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap" />
   	<img height="50" src="https://user-images.githubusercontent.com/25181517/182618508-1b12183b-5398-48d2-92e7-ff0969a22624.png" alt="Postman" title="Postman" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java" />
+	<img height="50" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" title="C++"/>
 </div>
 
 
